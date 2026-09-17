@@ -1,0 +1,68 @@
+commit 30b5ab36386e4870d26e2c607c2f0ecc9fe3bb79
+Author: bbbryanblanco-source <bb.bryanblanco@gmail.com>
+Date:   Fri Sep 11 11:48:00 2026 -0700
+
+    Update index.html
+
+commit 0c645a873b1ea265ce680c663a06da85e7f581ff
+Merge: f37cdce 736e1a1
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Fri Sep 11 11:19:15 2026 -0700
+
+    Merge pull request #1 from Alemer-1/feature-about-me
+    
+    Added changes to the index file that contain information about Felix.
+
+commit 736e1a1f4a3c728e88ef2aea6655ba96a65e3432
+Merge: 4bc5403 f37cdce
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Fri Sep 11 11:18:19 2026 -0700
+
+    Merge branch 'main' into feature-about-me
+
+commit 4bc540337e9864ee5632e25d8f7da04afd204ac7
+Author: Felix Huerta <felixhuerta33@gmail.com>
+Date:   Fri Sep 11 11:11:50 2026 -0700
+
+    Added new info including name, hobbies, and food.
+    
+    Included my name Felix, and other aspects in their respective fields.
+
+commit 36c86bac45225f2b53c6591729ec566171f0536d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:24:59 2025 -0800
+
+    Setup index for groupmate
+
+commit f37cdce66bf3ee5c7835db43eb69434768c73a72
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 22:05:30 2025 -0800
+
+    Replicate assignment-1 index
+
+commit 2221a861bb75db029ce6f7e543f814dcb97ff69c
+Merge: 7790057 bad1d21
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Feb 5 22:03:43 2025 -0800
+
+    Merge pull request #1 from JValenzuela1/feature-about-me
+    
+    Feature about me
+
+commit bad1d210982c13dbedbb9b72b3fd92018d5d575d
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:42:13 2025 -0800
+
+     Please enter the commit message for your changes. Lines starting
+
+commit 740ccd1c7908abf4acc3e9edc878b083730fc3ea
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:36:03 2025 -0800
+
+    Adding an index template for students
+
+commit 779005737de5c4a1d440e0674921a65a60db04ac
+Author: JValenzuela1 <Jakeval64@gmail.com>
+Date:   Wed Feb 5 21:15:47 2025 -0800
+
+    first commit
